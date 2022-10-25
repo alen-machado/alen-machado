@@ -9,6 +9,9 @@ PF-ARTKET: https://github.com/danidieep/PF-HENRY
 
 Estoy en búsqueda de nuevos desafíos y aprender todo lo que pueda sobre diferentes temas de desarrollo de nuevas tecnologias, dedicándole las horas que sean necesarias, ya que por fin descubrí lo que realmente me apasiona, que es programar y por sobre todo, trabajar junto a un equipo del cual seguir aprendiendo y ayudando.
 
+Technologies:
+Html, Css, JavaScript, React, Redux, Node, Express, Sequelize, PostgreSQL, MercadoPago, ApiRest, Babel, Webpack 
+
 ¿Quieres saber más sobre mí? ¡Contáctame!
 Email: alen.machado@outlook.com
 WhatsApp: +54 11 35776565
