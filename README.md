@@ -11,7 +11,7 @@ Estoy en búsqueda de nuevos desafíos y aprender todo lo que pueda sobre difere
 
 Technologies: 
 
-Html, Css, JavaScript, React, Redux, Node, Express, Sequelize, PostgreSQL, MercadoPago, ApiRest, Babel, Webpack, Gitflow, Metodologias Agiles
+Html, Css, JavaScript, React, Redux, Node, Express, Sequelize, PostgreSQL, MercadoPago, ApiRest, Babel, Webpack, Gitflow, Metodologias Agiles, Boostrap, Deploy(heroku, vercel)
 
 ¿Quieres saber más sobre mí? ¡Contáctame!
 Email: alen.machado@outlook.com
