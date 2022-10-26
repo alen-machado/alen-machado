@@ -5,7 +5,7 @@ PI-COUNTRIES: https://pi-countries-three-kappa.vercel.app/
 PI-VIDEOGAMES: https://pi-videogames-delta-mocha.vercel.app/
 
 Junto a un equipo conformado por 5 personas, desarrollamos una SPA(Single Page Application) de mayor escala, en la cual me enfoqué en la parte de frontend Para la construcción del backend y base de datos, utilizamos #PostgreSQL, #Nodejs, #Express, #Sequelize, #Bcrypt, #Jsonwebtoken, #Auth0, #Nodemailer. El frontend lo desarrollamos con #React, #Redux y #css, como tambien incorporamos otras tecnologias como por ejemplo mercado pago para realizar los pagos del servicio que brindamos, te dejo el link del repositorio para que puedas observar el codigo.
-PF-ARTKET: https://github.com/danidieep/PF-HENRY
+PF-ARTKET: https://artket.vercel.app
 
 Estoy en búsqueda de nuevos desafíos y aprender todo lo que pueda sobre diferentes temas de desarrollo de nuevas tecnologias, dedicándole las horas que sean necesarias, ya que por fin descubrí lo que realmente me apasiona, que es programar y por sobre todo, trabajar junto a un equipo del cual seguir aprendiendo y ayudando.
 
